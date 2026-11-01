@@ -23,11 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "news-i-release-my-personal-homepage",
-          title: 'I release my personal homepage!',
-          description: "",
-          section: "News",},{id: "news-i-release-a-srpaper-list-repository",
+        },{id: "news-i-release-a-srpaper-list-repository",
           title: 'I release a SRpaper list repository.',
+          description: "",
+          section: "News",},{id: "news-i-earned-a-master-s-degree-in-aeronautics-amp-amp-astronautics-science-amp-amp-technology-from-national-university-of-defense-technology",
+          title: 'I earned a master’s degree in Aeronautics &amp;amp;amp; Astronautics Science &amp;amp;amp; Technology from...',
+          description: "",
+          section: "News",},{id: "news-i-join-in-huawei-technologies-co-ltd-as-a-ai-software-engineer",
+          title: 'I join in Huawei Technologies Co., Ltd. as a AI Software Engineer.',
           description: "",
           section: "News",},{
       id: 'light-theme',
