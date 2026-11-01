@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: ':star::star::yum::star::star:'
+description: ":star::star::yum::star::star:"
 nav: true
 nav_order: 4
 ---

@@ -35,4 +35,3 @@ My name is [Name]. I earned a bachelor's degree in Aerospace Engineering from Na
 - Neural Operator: My work in this domain focuses on domain decomposition-based neural operators that can learn the solution spaces of PDEs with significant distribution differences directly from observational data.
 
 I am particularly enthusiastic about exploring real-world applications of artificial intelligence and energized by its transformative impact on scientific research paradigms and human livelihood enhancement.
-
