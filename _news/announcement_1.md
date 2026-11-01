@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I release my personal homepage!
+I release a SRpaper list repository.

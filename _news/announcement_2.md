@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-4-28
+date: 2025-12-31
 inline: true
 related_posts: false
 ---
 
-I release a SRpaper list repository.
+I earned a master's degree in Aeronautics & Astronautics Science & Technology from National University of Defense Technology.
